@@ -1,0 +1,10 @@
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\bin\Debug\MainConsole.exe.config
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\bin\Debug\MainConsole.exe
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\bin\Debug\MainConsole.pdb
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\bin\Debug\ArrayOperation.dll
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\bin\Debug\ArrayOperation.pdb
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\obj\Debug\MainConsole.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\obj\Debug\MainConsole.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\obj\Debug\MainConsole.csproj.CopyComplete
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\obj\Debug\MainConsole.exe
+C:\Users\Mihail\source\repos\ISMPrakt05\MainConsole\obj\Debug\MainConsole.pdb

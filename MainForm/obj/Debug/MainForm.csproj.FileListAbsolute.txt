@@ -1,0 +1,13 @@
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\bin\Debug\MainForm.exe
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\bin\Debug\MainForm.pdb
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\bin\Debug\ArrayOperation.dll
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\bin\Debug\ArrayOperation.pdb
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.csproj.CopyComplete
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.exe
+C:\Users\Mihail\source\repos\ISMPrakt05\MainForm\obj\Debug\MainForm.pdb

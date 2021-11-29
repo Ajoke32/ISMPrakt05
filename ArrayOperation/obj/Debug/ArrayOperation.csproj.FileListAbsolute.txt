@@ -1,0 +1,6 @@
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\bin\Debug\ArrayOperation.dll
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\bin\Debug\ArrayOperation.pdb
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\obj\Debug\ArrayOperation.csproj.AssemblyReference.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\obj\Debug\ArrayOperation.csproj.CoreCompileInputs.cache
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\obj\Debug\ArrayOperation.dll
+C:\Users\Mihail\source\repos\ISMPrakt05\ArrayOperation\obj\Debug\ArrayOperation.pdb
